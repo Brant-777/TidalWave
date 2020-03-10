@@ -1,0 +1,23 @@
+body{
+  background-color:#000000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family:"Verdana";
+}
+h1{
+  color:white;
+}
+.quote{
+  background-color:#A9A9A9;
+  color:black;
+  
+  height:auto;
+  border-radius:5px;
+  margin-top:20px;
+  padding:20px;
+}
+
+button{
+  
+}
