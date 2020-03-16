@@ -24,6 +24,7 @@ $(document).ready(function() {
                 }
                 console.log(quoteT + authorT);
                 var url = "https://twitter.com/intent/tweet?hashtags=quotes&text=";
+              
                 $("#tweetbtn").attr("href", url + quoteT + " - " + authorT);
             }
         });
@@ -31,4 +32,5 @@ $(document).ready(function() {
     //quote button
     $("#Quotebtn").on("click", getNewQuote);
     //setup tweet button and open window
+
 });
