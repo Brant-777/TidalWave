@@ -1,23 +1,30 @@
-body{
-  background-color:#000000;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  font-family:"Verdana";
+body{  
+  background: url("https://user-images.githubusercontent.com/21012044/76652321-b954b180-653c-11ea-9c7c-b296c63a4e17.jpg")50% 50%!important;
+background-size: cover!important;
+background-attachment: fixed!important;
+background-repeat: no-repeat!important;
+background-position: center center!important;
 }
 h1{
   color:white;
+  text-align:center;
+  
 }
 .quote{
   background-color:#A9A9A9;
   color:black;
-  
   height:auto;
   border-radius:5px;
   margin-top:20px;
   padding:20px;
 }
-
-button{
   
+#Button{
+text-align:center;
+align-items: center;
+}
+
+#tweetbtn{
+text-align:center;
+align-items: center; 
 }
