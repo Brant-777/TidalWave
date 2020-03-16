@@ -1,9 +1,9 @@
 body{  
   background: url("https://user-images.githubusercontent.com/21012044/76652321-b954b180-653c-11ea-9c7c-b296c63a4e17.jpg")50% 50%!important;
-background-size: cover!important;
-background-attachment: fixed!important;
-background-repeat: no-repeat!important;
-background-position: center center!important;
+  background-size: cover!important;
+  background-attachment: fixed!important;
+  background-repeat: no-repeat!important;
+  background-position: center center!important;
 }
 h1{
   color:white;
@@ -27,4 +27,8 @@ align-items: center;
 #tweetbtn{
 text-align:center;
 align-items: center; 
+}
+
+.img-container{
+text-align: center;
 }
